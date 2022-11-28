@@ -11,5 +11,5 @@
     <h2 style="color:orange;">Navigation</h2>
     <a href="AddingEffects.html">|Adding Effects|</a>
     <a href="EditingAudio.html">|Editing Audio|</a>
-    <a href="FavMusic.html">|Favorite Music|</a>
+    <a href="ExportingAudio.html">|Exporting Audio|</a>
     <a href="FavShow.html">|Favorite Show|</a>
