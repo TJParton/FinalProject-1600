@@ -12,4 +12,5 @@
     <a href="AddingEffects.html">|Adding Effects|</a>
     <a href="EditingAudio.html">|Editing Audio|</a>
     <a href="ExportingAudio.html">|Exporting Audio|</a>
-    <a href="FavShow.html">|Favorite Show|</a>
+    <a href="RecordingAudio.html">|Recording Audio|</a>
+    <a href="RecordingAudio.html">|Recording Audio|</a>
