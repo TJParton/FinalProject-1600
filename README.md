@@ -9,8 +9,10 @@
     <h2 style="color:orange;">Target Audience</h2>
     <p>The target audience for this project is college students who may be taking INFOTC 1600. This tutorial would then act as a guide in completing the challenge: Digital Audio in Audacity</p>
     <h2 style="color:orange;">Navigation</h2>
+    <a href="SampleRates.html">|Sample Rates|</a>
+    <a href="RecordingAudio.html">|Recording Audio|</a>
     <a href="AddingEffects.html">|Adding Effects|</a>
     <a href="EditingAudio.html">|Editing Audio|</a>
     <a href="ExportingAudio.html">|Exporting Audio|</a>
-    <a href="RecordingAudio.html">|Recording Audio|</a>
-    <a href="SampleRates.html">|Sample Rates|</a>
+    
+    
