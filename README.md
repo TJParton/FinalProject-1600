@@ -10,6 +10,6 @@
     <p>The target audience for this project is college students who may be taking INFOTC 1600. This tutorial would then act as a guide in completing the challenge: Digital Audio in Audacity</p>
     <h2 style="color:orange;">Navigation</h2>
     <a href="AddingEffects.html">|Adding Effects|</a>
-    <a href="ThingsIDof.html">|Things I do|</a>
+    <a href="EditingAudio.html">|Editing Audio|</a>
     <a href="FavMusic.html">|Favorite Music|</a>
     <a href="FavShow.html">|Favorite Show|</a>
